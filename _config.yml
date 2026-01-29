@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangjun Zhang"
-description              : "I am now a fourth-year PhD student (2022-), supervised by Prof. Hu Zhang."
-repository               : "/GJZhang2866/zgj.github.io"
+title                    : "Yazhou Han"
+description              : "I am now a second-year Master's student (2024-2027), supervised by Prof. Hu Zhang."
+repository               : "https://github.com/Yazhouhan924"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guangjun Zhang"
+  name             : "Yazhou Han"
   avatar           : "images/speech.jpg"
   bio              : "Shanxi University"
   location         : "Taiyuan, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zgj2866@gmail.com"
+  email            : "hanyazhou@sxu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GJZhang2866"# e.g., "github username"
+  github           : "Yazhouhan924"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,11 +45,11 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-5326-7525"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : https://s.team/p/ckhg-kwwd/KVCVFPQC
+  steam            : 
   tumblr           :
   twitter          : 
   vine             :
