@@ -56,13 +56,15 @@ Guangjun Zhang, Hu Zhang, **Yazhou Han**, Yue Fan, Yuhang Shao, Ru Li, Hongye Ta
 
 # 🎖 Honors and Awards
 - *2025.06* The Third Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
+- *2024.06* Outstanding Volunteer of the China Western Development Program.
 - *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
+- *2022.05* Third Prize in the China Computer Design Competition.
 
 
 
 # 📖 Educations
-- *2024.09 - 2027.06*, School of Computer and Information Technology, Shanxi University. Master Student.
-- *2023.09 - 2024.08*, Graduate Student Teaching Volunteer Group. Xilin County National Senior High School, Baise City, Guangxi Zhuang Autonomous Region.
+- *2024.09 - 2027.06*, School of Computer and Information Technology, Shanxi University. Master's Student.
+- *2023.09 - 2024.08*, **Graduate Student Teaching Volunteer Group**. Xilin County National Senior High School, Baise City, Guangxi Zhuang Autonomous Region.
 - *2019.09 - 2023.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
 
