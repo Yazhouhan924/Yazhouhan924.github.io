@@ -55,6 +55,7 @@ Guangjun Zhang, Hu Zhang, **Yazhou Han**, Yue Fan, Yuhang Shao, Ru Li, Hongye Ta
 
 
 # 🎖 Honors and Awards
+- *2026.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2026.
 - *2025.06* The Third Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2024.06* Outstanding Volunteer of the China Western Development Program.
 - *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
